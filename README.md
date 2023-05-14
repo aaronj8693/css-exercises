@@ -1,3 +1,1 @@
-# css-exercises
-
-This is for testing and learning css with exercises provided by the odin project.
+this is for testing and learning css with exercises proved by the odin project
