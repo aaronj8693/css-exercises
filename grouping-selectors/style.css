@@ -1,0 +1,14 @@
+.clickyes {
+    background-color: black;
+    color: white;
+}
+
+.clickno {
+    background-color: yellow;
+}
+
+.clickyes,
+.clickno {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
